@@ -1,0 +1,16 @@
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\bin\Debug\NotificationDemoWPF.exe.config
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\bin\Debug\NotificationDemoWPF.exe
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\bin\Debug\NotificationDemoWPF.pdb
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF.csprojAssemblyReference.cache
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\MainWindow.g.cs
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationWindow.g.cs
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\App.g.cs
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF_MarkupCompile.cache
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF_MarkupCompile.lref
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\MainWindow.baml
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationWindow.baml
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF.g.resources
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF.Properties.Resources.resources
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF.csproj.GenerateResource.cache
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF.exe
+C:\Users\soft-c\Downloads\NotificationDemoWPF(1)\NotificationDemoWPF\obj\Debug\NotificationDemoWPF.pdb

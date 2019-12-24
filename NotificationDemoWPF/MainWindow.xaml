@@ -1,0 +1,14 @@
+﻿<Window x:Class="NotificationDemoWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NotificationDemoWPF"
+        mc:Ignorable="d"
+        Title="桌面消息" Height="150 " Width="300" >
+    <Grid> 
+        <Button Content="弹出" HorizontalAlignment="Left" Margin="50,50,0,0" VerticalAlignment="Top" Width="81" Height="27" Click="Button_Click"/> 
+        <Button Name="btnTime" Content="定时弹出" HorizontalAlignment="Left" Margin="150,50,0,0" VerticalAlignment="Top" Width="81" Height="27" Click="Time_Click"/> 
+    </Grid>
+</Window>
+
